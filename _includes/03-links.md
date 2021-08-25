@@ -1,1 +1,1 @@
-https://github.com/Cowboy-BMO
+[My markdown link](https://github.com/Cowboy-BMO)
